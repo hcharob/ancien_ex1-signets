@@ -1,0 +1,18 @@
+.Entete {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+  position: sticky;
+  top: 0;
+
+  h1 {
+    font-size: 1.4rem;
+    padding: 0.5rem 0 0 2rem;
+  }
+
+  h2 {
+    padding: 0.5rem 2rem 0 0;
+  }
+}
