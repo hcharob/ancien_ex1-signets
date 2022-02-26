@@ -6,6 +6,7 @@
   margin: 0.6rem;
   background-color: rgb(243, 245, 247);
   box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+ 
 
   img {
     height: 100%;
@@ -25,9 +26,34 @@
   }
 
   .boiteTexte {
-    padding: 0 0.5rem 0rem 0.5rem;
+    padding-left: 1rem;
     position: absolute;
     bottom: 0;
     width: 100%;
+  }
+
+  .iconeSort, .iconePoint {
+    position: absolute;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    padding: 2px;
+    z-index: 2;
+  }
+
+  .iconeSort {
+    top: 3%;
+    left: 3%;
+    background-color: rgba(29, 29, 29, 0.3);
+  }
+
+  .iconePoint {
+    right: 3%;
+    bottom: 3%;
+    background-color: rgba(29, 29, 29, 0.2);
   }
 }
