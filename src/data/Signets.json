@@ -2,43 +2,43 @@
   {
     "id": 1,
     "titre": "Life Jam Guy",
-    "couleur": "rouge",
-    "date de modification": "23 février 2022"
+    "couleur": "#F2380F",
+    "date": "23 février 2022"
   },
   {
     "id": 2,
     "titre": "Nefarious Chip",
-    "couleur": "orange",
-    "date de modification": "23 février 2022"
+    "couleur": "#D97904",
+    "date": "23 février 2022"
   },
   {
     "id": 3,
     "titre": "Humphrey",
-    "couleur": "rose",
-    "date de modification": "23 février 2022"
+    "couleur": "#F26398",
+    "date": "23 février 2022"
   },
   {
     "id": 4,
     "titre": "Gator Guy",
-    "couleur": "vert",
-    "date de modification": "23 février 2022"
+    "couleur": "#84BF2C",
+    "date": "23 février 2022"
   },
   {
     "id": 5,
     "titre": "Rare Bear",
-    "couleur": "mauve",
-    "date de modification": "23 février 2022"
+    "couleur": "#D99CC4",
+    "date": "23 février 2022"
   },
   {
     "id": 6,
-    "titre": "Dorothi",
-    "couleur": "noir",
-    "date de modification": "23 février 2022"
+    "titre": "Ye Old Sprout",
+    "couleur": "black",
+    "date": "23 février 2022"
   },
   {
     "id": 7,
-    "titre": "Pluton",
-    "couleur": "jaune",
-    "date de modification": "23 février 2022"
+    "titre": "Space Ex-Husband",
+    "couleur": "#F2BC1B",
+    "date": "23 février 2022"
   }
 ]

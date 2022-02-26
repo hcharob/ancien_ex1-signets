@@ -1,10 +1,33 @@
 .Signet {
-  background-color: black;
-  width: 500px;
-  height: 500px;
-  border: 2px solid red;
+  color: white;
+  height: 300px;
+  width: 300px;
+  position: relative;
+  margin: 0.6rem;
+  background-color: rgb(243, 245, 247);
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 
   img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center top;
+  }
+
+
+  h3 {
+      font-size: 1.25rem;
+      font-weight: bold; 
+  }
+
+  .date {
+    font-size: 0.85rem;
+  }
+
+  .boiteTexte {
+    padding: 0 0.5rem 0rem 0.5rem;
+    position: absolute;
+    bottom: 0;
     width: 100%;
   }
 }
